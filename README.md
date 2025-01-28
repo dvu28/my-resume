@@ -2,10 +2,10 @@
 This is my resume in case people need it as a link and not an uploaded file
 
 # Duong Vu
-Washington D.C  
-240-308-9213 
-vu.duong1022@gmail.com 
-www.linkedin.com/in/duong-vu-4b82311a5 
+Washington D.C
+240-308-921
+vu.duong1022@gmail.com
+www.linkedin.com/in/duong-vu-4b82311a5
 github.com/dvu28
 
 # Skills
