@@ -21,8 +21,8 @@ github.com/dvu28 <br />
 
 # EXPERIENCE
 ## Software Engineer | Microtalk Inc. 
-December. 2023 – Present
-Gaithersburg, MD 
+December. 2023 – Present <br />
+Gaithersburg, MD <br />
 • Automated **300+** .htaccess rules using **Python** scripts, achieving **100%** positive HTTP responses <br />
 • Implemented **SEO** on a client’s website with **950k+** customers with **Front-End** stacks, driving a **15%** revenue increase <br />
 • Managed **600+** website files using **FileZilla**, ensuring seamless client and server synchronization <br />
@@ -30,21 +30,21 @@ Gaithersburg, MD
 for new instances by **20%**
 
 ## UX Developer, Part-time Contract | BuildWithin 
-November. 2024 – January. 2025 
-Washington D.C.
+November. 2024 – January. 2025 <br />
+Washington D.C. <br />
 • Streamlined design processes by implementing **80+** Polaris components, reducing development time by **30%** <br />
 • Designed platform, enabling apprenticeship models for organizations such as **Department of Employment Services** 
 
 ## UI/UX Developer, Part-time | Velosaty 
-September. 2023 – February. 2024
-Remote
+September. 2023 – February. 2024 <br />
+Remote <br />
 • Directed development of web application supporting **500k+** student-athletes, promoting career mentorship <br />
 • Developed **UI** components for **25+** web pages using **React**, accelerating development time by **55%** <br />
 • Integrated **3+** APIs, including college data systems to enhance the user experience’s search feature
 
 ## Software Engineer, Lead UX | Soshi 
-June. 2022 – December. 2022  
-College Park, MD 
+June. 2022 – December. 2022 <br />
+College Park, MD <br />
 • Led an application revamp with **60+** new features, using **Figma**, **Flutter**, and **JavaScript**, resulting a **5-star** app rating <br />
 • Analyzed data from **2,200+** users using **SQL** and **Python**, delivering actionable insights to **CTO** and business partners <br />
 • Achieved **81%** user growth in under three months, expanding the user base from 550 to **1,000** <br />
@@ -53,8 +53,8 @@ College Park, MD
 
 # EDUCATION 
 ## Bachelor’s of Science, Information Science | University of Maryland 
-January. 2020 – May. 2023
-College Park, MD
+January. 2020 – May. 2023 <br />
+College Park, MD <br />
 **Organizations**: UXTerp, Vietnamese Student Association <br />
 **Relevant Courses**: Object-Oriented Programming, Database Designing, User-Centered Design, Data Science <br />
 
