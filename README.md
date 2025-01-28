@@ -14,7 +14,7 @@ github.com/dvu28 <br />
 **Tools:** Git, GitHub, Docker, Figma, AWS EC2, MySQL, PostgreSQL, Postman, Proxmox, Bash, API’s, Power Automate <br />
 
 # Personal Projects
-## Weather App with OpenMeteo's API
+<h3>Weather App with OpenMeteo's API</h3>
 *Node.js, Express.js, React, JavaScript, API, Postman, Docker, AWS EC2* <br />
 • Developed a weather web application with **multiple API’s**, allowing **user input** to retrieve over **5k** data of weather <br />
 • Containerized the application with **Docker** and deployed the application to an **AWS EC2** instance
