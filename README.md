@@ -2,11 +2,11 @@
 This is my resume in case people need it as a link and not an uploaded file
 
 # Duong Vu
-Washington D.C
-240-308-921
-vu.duong1022@gmail.com
-www.linkedin.com/in/duong-vu-4b82311a5
-github.com/dvu28
+Washington D.C <br />
+240-308-921 <br />
+vu.duong1022@gmail.com <br />
+www.linkedin.com/in/duong-vu-4b82311a5 <br />
+github.com/dvu28 <br />
 
 # Skills
 **Langauges:**  JavaScript, SQL, Python, Java
@@ -16,7 +16,6 @@ github.com/dvu28
 # Personal Projects
 ## Weather App with OpenMeteo's API
 *Node.js, Express.js, React, JavaScript, API, Postman, Docker, AWS EC2*
-
 • Developed a weather web application with **multiple API’s**, allowing **user input** to retrieve over **5k** data of weather 
 • Containerized the application with **Docker** and deployed the application to an **AWS EC2** instance
 
