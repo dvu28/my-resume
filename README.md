@@ -9,7 +9,7 @@ www.linkedin.com/in/duong-vu-4b82311a5 <br />
 github.com/dvu28 <br />
 
 # Skills
-**Langauges:**  JavaScript, SQL, Python, Java <br />
+<b>Langauges:</b>  JavaScript, SQL, Python, Java <br />
 **Frameworks/Libraries:**  Node.js, Express.js, React, Tailwind, Pandas <br />
 **Tools:** Git, GitHub, Docker, Figma, AWS EC2, MySQL, PostgreSQL, Postman, Proxmox, Bash, API’s, Power Automate <br />
 
